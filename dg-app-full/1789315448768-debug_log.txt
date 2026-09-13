@@ -1,0 +1,130 @@
+09-04 10:36:49.SSS [Application] process start pid=29835
+09-04 10:36:49.SSS [QuickPickActivity] onCreate hash=11758274 action=android.intent.action.MAIN extras=null
+09-04 10:36:49.SSS [QuickPickActivity] no configured slots, redirecting to Configure
+09-04 10:36:49.SSS [MainActivity] onCreate hash=261694330 action=null extras=[extra_open_config]
+09-04 10:36:49.SSS [MainActivity] applyLauncherComponent variant=default mode=LIST
+09-04 10:36:49.SSS [MainActivity] applyLauncherComponent done
+09-04 10:36:49.SSS [MainActivity] showing Config screen
+09-04 10:36:50.SSS [QuickPickActivity] onDestroy hash=11758274 isFinishing=true
+09-04 10:36:53.SSS [MainActivity] onPause hash=261694330
+09-04 10:36:55.SSS [MainActivity] onPause hash=261694330
+09-04 10:36:55.SSS [MainActivity] onStop hash=261694330 isFinishing=false
+09-04 10:36:58.SSS [MainActivity] onPause hash=261694330
+09-04 10:36:58.SSS [MainActivity] onStop hash=261694330 isFinishing=false
+09-04 10:37:00.SSS [Application] process start pid=30008
+09-04 10:37:00.SSS [QuickPickActivity] onCreate hash=11758274 action=android.intent.action.MAIN extras=null
+09-04 10:37:00.SSS [QuickPickActivity] no configured slots, redirecting to Configure
+09-04 10:37:00.SSS [MainActivity] onCreate hash=261694330 action=null extras=[extra_open_config]
+09-04 10:37:00.SSS [MainActivity] applyLauncherComponent variant=default mode=LIST
+09-04 10:37:00.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:00.SSS [MainActivity] showing Config screen
+09-04 10:37:01.SSS [QuickPickActivity] onDestroy hash=11758274 isFinishing=true
+09-04 10:37:03.SSS [MainActivity] mode change LIST -> DIRECT
+09-04 10:37:03.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:03.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:03.SSS [MainActivity] persist: done
+09-04 10:37:04.SSS [MainActivity] onPause hash=261694330
+09-04 10:37:05.SSS [MainActivity] onStop hash=261694330 isFinishing=true
+09-04 10:37:05.SSS [MainActivity] onDestroy hash=261694330 isFinishing=true
+09-04 10:37:06.SSS [MainActivity] onCreate hash=109736034 action=android.intent.action.MAIN extras=null
+09-04 10:37:06.SSS [MainActivity] applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:06.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:06.SSS [MainActivity] showing Config screen
+09-04 10:37:07.SSS [MainActivity] mode change DIRECT -> MIX
+09-04 10:37:07.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=MIX
+09-04 10:37:07.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:07.SSS [MainActivity] persist: done
+09-04 10:37:10.SSS [MainActivity] mode change MIX -> DIRECT
+09-04 10:37:10.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:10.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:10.SSS [MainActivity] persist: done
+09-04 10:37:13.SSS [MainActivity] mode change DIRECT -> LIST
+09-04 10:37:13.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=LIST
+09-04 10:37:13.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:13.SSS [MainActivity] persist: done
+09-04 10:37:14.SSS [MainActivity] onPause hash=109736034
+09-04 10:37:14.SSS [MainActivity] onStop hash=109736034 isFinishing=true
+09-04 10:37:14.SSS [MainActivity] onDestroy hash=109736034 isFinishing=true
+09-04 10:37:15.SSS [QuickPickActivity] onCreate hash=29724847 action=android.intent.action.MAIN extras=null
+09-04 10:37:15.SSS [QuickPickActivity] no configured slots, redirecting to Configure
+09-04 10:37:15.SSS [MainActivity] onCreate hash=66137476 action=null extras=[extra_open_config]
+09-04 10:37:15.SSS [MainActivity] applyLauncherComponent variant=default mode=LIST
+09-04 10:37:15.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:15.SSS [MainActivity] showing Config screen
+09-04 10:37:16.SSS [QuickPickActivity] onDestroy hash=29724847 isFinishing=true
+09-04 10:37:17.SSS [MainActivity] mode change LIST -> DIRECT
+09-04 10:37:17.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:17.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:17.SSS [MainActivity] persist: done
+09-04 10:37:18.SSS [MainActivity] onPause hash=66137476
+09-04 10:37:19.SSS [MainActivity] onStop hash=66137476 isFinishing=true
+09-04 10:37:19.SSS [MainActivity] onDestroy hash=66137476 isFinishing=true
+09-04 10:37:22.SSS [MainActivity] onCreate hash=185677105 action=android.intent.action.MAIN extras=null
+09-04 10:37:22.SSS [MainActivity] applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:22.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:22.SSS [MainActivity] showing Config screen
+09-04 10:37:23.SSS [MainActivity] mode change DIRECT -> MIX
+09-04 10:37:23.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=MIX
+09-04 10:37:23.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:23.SSS [MainActivity] persist: done
+09-04 10:37:26.SSS [MainActivity] mode change MIX -> LIST
+09-04 10:37:26.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=LIST
+09-04 10:37:26.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:26.SSS [MainActivity] persist: done
+09-04 10:37:28.SSS [MainActivity] onPause hash=185677105
+09-04 10:37:28.SSS [MainActivity] onStop hash=185677105 isFinishing=true
+09-04 10:37:28.SSS [MainActivity] onDestroy hash=185677105 isFinishing=true
+09-04 10:37:28.SSS [QuickPickActivity] onCreate hash=6511559 action=android.intent.action.MAIN extras=null
+09-04 10:37:28.SSS [QuickPickActivity] no configured slots, redirecting to Configure
+09-04 10:37:28.SSS [MainActivity] onCreate hash=69309359 action=null extras=[extra_open_config]
+09-04 10:37:28.SSS [MainActivity] applyLauncherComponent variant=default mode=LIST
+09-04 10:37:28.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:28.SSS [MainActivity] showing Config screen
+09-04 10:37:29.SSS [QuickPickActivity] onDestroy hash=6511559 isFinishing=true
+09-04 10:37:32.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=LIST
+09-04 10:37:32.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:32.SSS [MainActivity] persist: done
+09-04 10:37:34.SSS [MainActivity] mode change LIST -> DIRECT
+09-04 10:37:34.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:34.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:34.SSS [MainActivity] persist: done
+09-04 10:37:35.SSS [MainActivity] onPause hash=69309359
+09-04 10:37:36.SSS [MainActivity] onStop hash=69309359 isFinishing=true
+09-04 10:37:36.SSS [MainActivity] onDestroy hash=69309359 isFinishing=true
+09-04 10:37:38.SSS [MainActivity] onCreate hash=180265666 action=android.intent.action.MAIN extras=null
+09-04 10:37:38.SSS [MainActivity] applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:38.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:38.SSS [MainActivity] dispatchIfShortcut handled it, finishing
+09-04 10:37:39.SSS [MainActivity] onDestroy hash=180265666 isFinishing=true
+09-04 10:37:42.SSS [MainActivity] onCreate hash=218669078 action=android.intent.action.VIEW extras=[extra_open_config]
+09-04 10:37:42.SSS [MainActivity] applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:42.SSS [MainActivity] applyLauncherComponent done
+09-04 10:37:42.SSS [MainActivity] showing Config screen
+09-04 10:37:44.SSS [MainActivity] mode change DIRECT -> MIX
+09-04 10:37:44.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=MIX
+09-04 10:37:44.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:44.SSS [MainActivity] persist: done
+09-04 10:37:48.SSS [MainActivity] mode change MIX -> DIRECT
+09-04 10:37:48.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=DIRECT
+09-04 10:37:48.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:48.SSS [MainActivity] persist: done
+09-04 10:37:50.SSS [MainActivity] mode change DIRECT -> LIST
+09-04 10:37:50.SSS [MainActivity] persist: applyLauncherComponent variant=default mode=LIST
+09-04 10:37:50.SSS [MainActivity] persist: applyLauncherComponent done, syncing shortcuts
+09-04 10:37:50.SSS [MainActivity] persist: done
+09-04 10:37:53.SSS [MainActivity] onPause hash=218669078
+09-04 10:37:53.SSS [MainActivity] onStop hash=218669078 isFinishing=false
+09-04 10:37:56.SSS [Application] process start pid=30717
+09-04 10:37:56.SSS [QuickPickActivity] onCreate hash=11758274 action=android.intent.action.MAIN extras=null
+09-04 10:38:01.SSS [QuickPickActivity] onStop hash=11758274 isFinishing=true allowPeek=true
+09-04 10:38:01.SSS [QuickPickActivity] onDestroy hash=11758274 isFinishing=true
+09-04 10:38:01.SSS [QuickPickActivity] onCreate hash=157927182 action=android.intent.action.MAIN extras=null
+09-04 10:38:02.SSS [MainActivity] onCreate hash=130655126 action=null extras=[extra_open_config]
+09-04 10:38:02.SSS [MainActivity] applyLauncherComponent variant=default mode=LIST
+09-04 10:38:02.SSS [MainActivity] applyLauncherComponent done
+09-04 10:38:02.SSS [MainActivity] showing Config screen
+09-04 10:38:02.SSS [QuickPickActivity] onStop hash=157927182 isFinishing=true allowPeek=true
+09-04 10:38:02.SSS [QuickPickActivity] onDestroy hash=157927182 isFinishing=true
+09-04 10:38:05.SSS [MainActivity] onPause hash=130655126
+09-04 10:38:08.SSS [MainActivity] onStop hash=130655126 isFinishing=false
+09-04 10:38:24.SSS [MainActivity] onPause hash=130655126
